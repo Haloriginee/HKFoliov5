@@ -75,7 +75,7 @@ export const projects = [
     des: "Get ready to binge-watch your heart out with our Netflix clone! It's like having a never-ending buffet of movies and TV shows at your fingertips. With personalized recommendations, multi-user profiles, and a massive library of titles, you'll never run out of options.",
     img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-    link: "https://nhaquemoviev2.netlify.app/",
+    link: "/nhaquemoviev2.netlify.app/",
   },
   {
     id: 2,
@@ -83,7 +83,7 @@ export const projects = [
     des: "Get ready to jam out with our Spotify clone! It's like having a personal DJ in your pocket. With millions of songs at your fingertips, you can listen to all your favorites and discover new music to love. Our playlists are so good, you'll wonder how you ever lived without them.",
     img: "/p2.png",
     iconLists: ["/tail.svg", "/ts.svg", "/stream.svg"],
-    link: "https://nhaquemusics-v2.netlify.app/",
+    link: "/nhaquemusics-v2.netlify.app/",
   },
   {
     id: 3,
@@ -91,7 +91,7 @@ export const projects = [
     des: "Prepare to unleash your inner speed demon! Step into the driver's seat of sleek, futuristic cars and race in a neon-infused world. Feel the rush as you navigate gravity-defying loops, blazing straightaways, and treacherous twists, all while leaving a trail of dazzling light in your wake.",
     img: "/p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
-    link: "https://gamepholife.netlify.app/",
+    link: "/gamepholife.netlify.app/",
   },
 ];
 
